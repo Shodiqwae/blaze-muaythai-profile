@@ -30,7 +30,6 @@ export default function Navbar({ onOpenBooking }) {
     { name: 'Tentang Coach', href: '#coach' },
     { name: 'Lokasi & Fleksibilitas', href: '#locations' },
     { name: 'Program Latihan', href: '#programs' },
-    { name: 'Kalkulator Kalori', href: '#calculator' },
     { name: 'Paket & Harga', href: '#pricing' },
     { name: 'FAQ', href: '#faq' },
   ];

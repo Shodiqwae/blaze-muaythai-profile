@@ -85,11 +85,6 @@ export default function Footer({ onOpenBooking }) {
                 </a>
               </li>
               <li>
-                <a href="#calculator" className="hover:text-red-400 transition-colors">
-                  Kalkulator Estimasi Kalori
-                </a>
-              </li>
-              <li>
                 <a href="#pricing" className="hover:text-red-400 transition-colors">
                   Paket & Biaya Sesi
                 </a>

@@ -6,7 +6,6 @@ import CoachProfile from './components/CoachProfile';
 import HowItWorks from './components/HowItWorks';
 import Programs from './components/Programs';
 import DailySessionStructure from './components/DailySessionStructure';
-import CalorieCalculator from './components/CalorieCalculator';
 import Pricing from './components/Pricing';
 import FAQ from './components/FAQ';
 import Footer from './components/Footer';
@@ -41,7 +40,6 @@ export default function App() {
         <HowItWorks />
         <Programs onOpenBooking={handleOpenBooking} />
         <DailySessionStructure />
-        <CalorieCalculator onOpenBooking={handleOpenBooking} />
         <Pricing onOpenBooking={handleOpenBooking} />
         <FAQ />
       </main>
